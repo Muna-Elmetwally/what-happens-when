@@ -564,8 +564,8 @@ The components of the browsers are:
   boxes and windows. This backend exposes a generic interface that is not
   platform-specific.
   Underneath it uses operating system user interface methods.
-* **JavaScript engine:** The JavaScript engine is used to parse and
-  execute JavaScript code.
+* **JavaScript engine:**  execute JavaScript code to add interactivity and dynamic behavior to web pages.
+
 * **Data storage:** The data storage is a persistence layer. The browser may
   need to save all sorts of data locally, such as cookies. Browsers also
   support storage mechanisms such as localStorage, IndexedDB, WebSQL and
